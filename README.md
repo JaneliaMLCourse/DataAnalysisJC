@@ -7,3 +7,5 @@
 [slides](https://docs.google.com/presentation/d/1ObV6S6bhaX4MhfuFXqDQDp-o9itGCV_v9OahqyvoSRY/edit?usp=sharing)
 
 demo [notebook](notebooks/tsne_demo.ipynb) without FIt-SNE dependency.
+
+swiss roll [example](notebooks/swiss_roll.ipynb)
