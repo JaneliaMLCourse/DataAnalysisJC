@@ -1,7 +1,6 @@
-# DataAnalysisJC
-data analysis journal club code and slides
+# Data Analysis Journal Club
 
-# t-SNE JC
+## t-SNE JC
 
 [The art of using t-SNE for single-cell transcriptomics](https://www.nature.com/articles/s41467-019-13056-x) by Dmitry Kobak and Philipp Behrens
 
