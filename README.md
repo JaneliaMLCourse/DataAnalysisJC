@@ -6,4 +6,4 @@
 
 [slides](https://docs.google.com/presentation/d/1ObV6S6bhaX4MhfuFXqDQDp-o9itGCV_v9OahqyvoSRY/edit?usp=sharing)
 
-[notebook](notebooks/tsne_demo.ipynb)
+my version of their demo [notebook](notebooks/tsne_demo.ipynb) without FIt-SNE dependency.
