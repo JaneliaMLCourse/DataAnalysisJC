@@ -17,7 +17,7 @@ swiss roll [example](notebooks/swiss_roll.ipynb)
 
 Jan Funke
 
-[demo notebook](reducedRankRegression/Reduced Rank Regression.ipynb)
+[demo notebook](reducedRankRegression/Reduced%20Rank%20Regression.ipynb)
 
 see Jan's [original repo](https://github.com/funkey/das_rrr)
 
