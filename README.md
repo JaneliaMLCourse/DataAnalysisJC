@@ -21,3 +21,10 @@ Jan Funke
 
 see Jan's [original repo](https://github.com/funkey/das_rrr)
 
+## ML JC
+
+Carsen Stringer 
+
+[slides](https://drive.google.com/file/d/1Gdtjy8K95PdM_qpYupLXDloOpj-Iok7U/view?usp=sharing)
+
+[notebook](notebooks/dim_exploration.ipynb) 
