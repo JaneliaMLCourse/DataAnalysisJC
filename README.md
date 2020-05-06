@@ -21,7 +21,7 @@ Jan Funke
 
 see Jan's [original repo](https://github.com/funkey/das_rrr)
 
-## ML JC
+## ML Intro (WCC)
 
 Carsen Stringer 
 
