@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#jupyter nbconvert isomap.ipynb --to slides --template slides_reveal.tpl --post serve 
+
+jupyter nbconvert isomap.ipynb --to slides --post serve 
