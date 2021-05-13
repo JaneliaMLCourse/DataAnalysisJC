@@ -1,5 +1,11 @@
 # Data Analysis Journal Club
 
+## Learning of Disentangled Representations
+
+Jan Funke
+
+[slides](slides/20210513_disentangle.pdf)
+
 ## t-SNE JC
 
 Carsen Stringer 
